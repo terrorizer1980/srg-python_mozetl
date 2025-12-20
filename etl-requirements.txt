@@ -13,7 +13,7 @@ coverage==4.5.3
 decorator==4.4.0
 docutils==0.14
 expiringdict==1.1.4
-filelock==3.0.12
+filelock==3.20.1
 funcsigs==1.0.2
 idna==2.7
 ipython==7.5.0
